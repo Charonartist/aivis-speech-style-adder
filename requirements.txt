@@ -1,0 +1,13 @@
+# AivisSpeech Style Adder Requirements
+# Python 3.6+ is required
+
+# All required libraries are part of Python standard library:
+# - tkinter (GUI framework)
+# - json (JSON file handling)
+# - os (Operating system interface)
+# - shutil (File operations)
+# - pathlib (Path operations)
+# - zipfile (ZIP file handling)
+# - threading (Multi-threading support)
+
+# No external dependencies required!
